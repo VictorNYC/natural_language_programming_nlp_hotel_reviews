@@ -6,9 +6,10 @@ With zero experience in Data Science, in this notebook I practiced using data in
 I am only uploading this work to share it via Github link whenever I want or for my portfolio.
 
 You can find:
-1.Python Notebook;
-2. Dataset; and
-3. Screenshots of the visuals.
+1.Python Notebook; and
+2.Screenshots of the visuals.
+
+Dataset not provided because ir a larga dataset, it was not possible to uploaded here. 
 
 Enjoy!,
 Victor Cornejo
